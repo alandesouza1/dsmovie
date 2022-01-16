@@ -11,7 +11,7 @@ type Props = {
 type StarProps = {
   fill: number;
 }
-
+ 
 // EX:
 // getFills(3.5) => [1, 1, 1, 0.5, 0]
 // getFills(4.1) => [1, 1, 1, 1, 0.5]
