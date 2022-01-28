@@ -7,7 +7,7 @@ https://socywaredsmovie.netlify.app
 
 DSMovie é uma aplicação full stack web e mobile construída durante a 6ª edição da **Semana DevSuperior** (#sds6), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
-A aplicação consiste em avaliação de preferência de filmes, onde o usuário responde o formulário e insere uma nota de 1 a 4, e atualiza no app web.
+A aplicação consiste em avaliação de preferência de filmes, onde o usuário responde o formulário e insere uma nota de 1 a 5, e atualiza no app web.
 
 
 ## Layout 
