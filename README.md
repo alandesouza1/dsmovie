@@ -9,14 +9,12 @@ DSMovie é uma aplicação full stack web e mobile construída durante a 6ª edi
 
 A aplicação consiste em avaliação de preferência de filmes, onde o usuário responde um formulário e insere unma nota de 1 a 4, e atualiza no app web.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
-## Layout web
-![Web 1]![image](https://user-images.githubusercontent.com/62446022/151549613-339c5196-fe8e-4ef1-8fae-9d79dd0e5652.png)
+## Layout 
+![image](https://user-images.githubusercontent.com/62446022/151549613-339c5196-fe8e-4ef1-8fae-9d79dd0e5652.png)
 
 
-![Web 2]![image](https://user-images.githubusercontent.com/62446022/151549802-6a84b9ad-fd6b-42f7-b2d3-06289a0075c2.png)
+![image](https://user-images.githubusercontent.com/62446022/151549802-6a84b9ad-fd6b-42f7-b2d3-06289a0075c2.png)
  
 
 ## Modelo conceitual
